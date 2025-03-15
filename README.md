@@ -4,6 +4,8 @@
 
 - Complete the problems using calculus, algebra and Python.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 How to start this project
 
 Follow the instructions below:
@@ -12,7 +14,11 @@ Follow the instructions below:
 2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
 3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
 
+</onlyfor>
+
+
 ## 📝 Instructions
+
 
 1. Once you start working on the project, you will see a `./notebook/problems.ipynb` file containing a list of exercises. 
 2. Before starting, make sure to select the **appropriate Kernel**.
@@ -20,13 +26,13 @@ Follow the instructions below:
     - When you open the notebook, a message will appear at the top indicating **"Select Kernel"**.
     - Click on **"Select Kernel"** (as shown in the image).
 
-![image-kernel](assets/image-kernel.png)
+![image-kernel](https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/assets/image-kernel.png?raw=true)
 
 3. A list with available options will be displayed. Select **"Python Environments"** and choose the Python version you want to use.
 
     - Make sure to select the version specified in the `devcontainer.json` file, as this is the recommended one for the project.
 
-![image-devcontainer](assets/devcontainer-image.png)
+![image-devcontainer](https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/assets/devcontainer-image.png?raw=true)
 
 > Solution: https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/notebook/solutions.ipynb
 
